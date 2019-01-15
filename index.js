@@ -10,6 +10,7 @@ const m0 = createModuleZero({
         "eslint-plugin-jest": "^22.1.3",
         "eslint-plugin-prettier": "^3.0.0",
         "fs-extra": "^7.0.0",
+        "husky": "^1.3.1",
         "jest": "^23.6.0",
         "lint-staged": "^8.0.4",
         "prettier": "^1.14.3"
