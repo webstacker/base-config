@@ -24,6 +24,7 @@ const m0 = createModuleZero({
         },
         commentStyleMap: {
             '.gitignore': '#',
+            '.eslintignore': '#',
             '.js': '/**/'
         }
     }
